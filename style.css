@@ -32,7 +32,7 @@ nav {
   }
   .b1:hover{
     border-radius: 40px;
-    background-color: red;
+    background-color: white;
   }
   @media only screen and (min-width: 601px) {
       .nav-link {
